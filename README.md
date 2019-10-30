@@ -1,20 +1,7 @@
 # iftex
-Am I running under pdfTeX, XeTeX or LuaTeX?
+Tests for engine versions.
 
-## CTAN Package
- https://www.ctan.org/pkg/iftex
+This repository has been archived and is now read-only, development is now at
 
-
-
-## Maintenance
-Vafa Khalighi, who was maintaining iftex, handed maintenance to this bidi-tex
-GitHub Group (which initially consists of members of the LaTeX3 team).
-
-Issues may be entered here.
-
-If it proves necessary to update the files, this repository will
-be filled with files retrieved from CTAN:
-
-http://mirrors.ctan.org/macros/latex/contrib/iftex.zip
-
+https://github.com/latex3/iftex/
 
